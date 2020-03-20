@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="note_sources">
+    <item>책</item>
+    <item>영화</item>
+    <item>드라마</item>
+    <item>시</item>
+    <item>웹툰</item>
+    <item>명언</item>
+
+</string-array>
+</resources>

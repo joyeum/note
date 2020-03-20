@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!-- normal -->
+    <font
+        android:font="@font/notoserifcjkkr_regular"
+        android:fontStyle="normal"
+        app:font="@font/notoserifcjkkr_regular"
+        app:fontStyle="normal"
+        android:includeFontPadding="false"
+        android:lineSpacingMultiplier="1.5"
+        />
+
+
+    <!-- bold -->
+    <font
+        android:font="@font/notoserifcjkkr_semibold"
+        android:fontStyle="normal"
+        app:font="@font/notoserifcjkkr_semibold"
+        app:fontStyle="normal"
+/>
+
+
+</font-family>
